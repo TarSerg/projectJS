@@ -19,4 +19,6 @@ button {
 
 h1 {
     margin-left: 20px;
+    text-decoration: underline;
+    text-decoration-color: #805f5f;
 }

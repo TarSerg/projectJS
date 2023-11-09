@@ -6,9 +6,9 @@ body {
 }
 
 .wrap {
-        margin-left: 20px;
-       font-size: 20px;
-  }
+    margin-left: 20px;
+    font-size: 20px;
+}
 
 .btn1 {
     display: flex;
@@ -30,9 +30,11 @@ body {
     gap: 10px;
     margin: 20px;
 }
-.div1{
-    width:calc(20% - 10px);
+
+.div1 {
+    width: calc(20% - 10px);
 }
+
 .btn {
     height: 20px;
     border-radius: 5px;
@@ -43,4 +45,6 @@ body {
 
 h1 {
     margin-left: 20px;
+    text-decoration: underline;
+    text-decoration-color: #805f5f;
 }

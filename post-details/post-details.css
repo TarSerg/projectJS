@@ -1,4 +1,4 @@
- /*блок з інфою про пост зверху. Коментарі - по 4 в ряд.*!*/
+/*блок з інфою про пост зверху. Коментарі - по 4 в ряд.*!*/
 body {
     background-color: lightgray;
     margin-left: 25px;
@@ -6,8 +6,9 @@ body {
 
 .wrap {
     margin-left: 20px;
-      font-size: 23px;
-  }
+    font-size: 23px;
+}
+
 .wrap2 {
 
     display: flex;
@@ -17,8 +18,13 @@ body {
     gap: 10px;
 }
 
-.div1{
+.div1 {
 
-    width:calc(25% - 10px);
+    width: calc(25% - 10px);
+}
+
+h2 {
+    text-decoration: underline;
+    text-decoration-color: #805f5f;
 }
 
