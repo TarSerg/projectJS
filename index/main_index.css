@@ -1,0 +1,22 @@
+/*всі блоки з user - по 2 в рядок. кнопки/аосилвння розташувати під інформацією про user.*/
+body {
+    background-color: lightgray;
+}
+
+.wrap {
+    display: inline-block;
+    columns: 2;
+    margin-left: 20px;
+    font-size: 23px;
+}
+
+button {
+    border-radius: 5px;
+    height: 30px;
+    cursor: pointer;
+    margin: 7px 0 10px 0;
+}
+
+h1 {
+    margin-left: 20px;
+}
